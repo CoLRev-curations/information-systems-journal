@@ -1,0 +1,8 @@
+- filename: DBLP.bib
+  search_type: FEED
+  source_name: Information Systems Journal
+  source_url: ''
+  search_parameters: 
+    - endpoint: dblp
+      params: SCOPE venue_key='journals/isj' AND journal_abbreviated='Inf. Syst. J.'
+  comment: ''
