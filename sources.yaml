@@ -13,7 +13,7 @@
   source_url: CROSSREF.bib
   search_parameters:
   - endpoint: crossref
-  params: SCOPE journal_issn='1365-2575'
+    params: SCOPE journal_issn='1365-2575'
   last_sync: null
   comment: ''
 - filename: pdfs.bib
