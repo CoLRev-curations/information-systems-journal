@@ -5,7 +5,11 @@
         "share_stat_req": "processed",
         "delay_automated_processing": true,
         "curated_masterdata": true,
-        "curated_fields": []
+        "curated_fields": [
+            "doi",
+            "url",
+            "dblp_key"
+        ]
     },
     "search": {
         "sources": []
