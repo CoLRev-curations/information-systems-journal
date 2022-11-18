@@ -240,8 +240,7 @@
     "screen": {
         "explanation": null,
         "criteria": {},
-        "screen_package_endpoints": [
-        ]
+        "screen_package_endpoints": []
     },
     "data": {
         "data_package_endpoints": [
