@@ -115,7 +115,6 @@ colrev environment --install geritwagner/information-systems-journal
 |2007-17-3     |               7|               6|               7|              NO|
 |2007-17-2     |               5|               4|               5|              NO|
 |2007-17-1     |               6|               5|               6|              NO|
-|2007-0-0      |             *1*|               -|               -|              NO|
 |2006-16-4     |               4|               3|               4|              NO|
 |2006-16-3     |               5|               4|               5|              NO|
 |2006-16-2     |               5|               4|               5|              NO|
@@ -170,7 +169,7 @@ colrev environment --install geritwagner/information-systems-journal
 |1994-4-1      |               5|               5|               5|                |
 |1993-3-4      |               4|               4|               4|                |
 |1993-3-3      |               5|               5|               5|                |
-|1993-3-2      |            *1*5|               5|               5|              NO|
+|1993-3-2      |               5|               5|               5|                |
 |1993-3-1      |               5|               5|               5|                |
 |1992-2-4      |               5|               5|               5|              NO|
 |1992-2-3      |               7|               7|               7|                |
