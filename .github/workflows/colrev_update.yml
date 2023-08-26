@@ -12,8 +12,12 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v3
       - name: Install CoLRev
+        working-directory: ${{ runner.temp }}
         run: |
-          pip install git+https://github.com/CoLRev-Environment/colrev.git#egg=colrev
+          git clone https://github.com/CoLRev-Environment/colrev
+          cd colrev
+          python -m pip install poetry
+          poetry install
       - name: Setup git
         run: |
           git config --global user.name "CoLRev update"
