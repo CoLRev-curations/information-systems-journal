@@ -55,7 +55,9 @@
             "search_type": "DB",
             "search_parameters": {
                 "scope": {
-                    "issn": "1365-2575"
+                    "issn": [
+                        "1365-2575"
+                    ]
                 }
             },
             "comment": ""
