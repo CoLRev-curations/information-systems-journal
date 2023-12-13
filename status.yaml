@@ -4,13 +4,13 @@ completeness_condition: false
 currently:
   exclusion: {}
   md_duplicates_removed: 1652
-  md_imported: 0
+  md_imported: 3
   md_needs_manual_preparation: 56
   md_prepared: 104
   md_processed: 0
-  md_retrieved: 3
-  non_completed: 162
-  non_processed: 160
+  md_retrieved: 0
+  non_completed: 165
+  non_processed: 163
   pdf_imported: 0
   pdf_needs_manual_preparation: 0
   pdf_needs_manual_retrieval: 2
@@ -24,7 +24,7 @@ currently:
   rev_synthesized: 862
 nr_curated_records: 911
 overall:
-  md_imported: 1071
+  md_imported: 1074
   md_needs_manual_preparation: 1071
   md_prepared: 1015
   md_processed: 911
